@@ -1,13 +1,13 @@
 # Shipping Container Style Screw Storage
 [English version](./README.md) | [中文版](./README_ch.md)
-Lid | Label lid
+Lid | Top label on lid
 :----:|:----:
 ![Main visual](./_fig/main_visual.jpg) | ![Top label visual](./_fig/top_label_visual.jpg)
 
 
 
 ## Introduction
-This is a modular screws/parts container design with various dimensions available.
+This is a modular screws/parts container design with various dimensions and labels for common screws/parts available.
 
 This design uses a single base unit called base_length (available in 30mm, 40mm, and 50mm).
 All container dimensions are simple multiples of this base unit:
@@ -19,6 +19,8 @@ All container dimensions are simple multiples of this base unit:
 For example, a 30mm h1×L3×W2 container has dimensions of 30mm × 90mm × 60mm.
 
 Each container comes with a matching lid and interchangeable labels. The repository includes hundreds of ready-made labels to choose from.
+
+This work is published on [MakerWorld](https://makerworld.com/en/models/2331608-shipping-container-style-screw-storage#profileId-2547574).
 
 ## Features: Two Formats
 Stack | Flat in a tray
@@ -42,7 +44,7 @@ For each "base_length" (30mm, 40mm, 50mm), the container has different multiples
 
 ![Container dimension](./_fig/container_dimension.png)
 
-Containers have file names in the format {base_length}_h{height_grid}_L{length_grid}_W{width_grid}.
+Containers have file names in the format {base_length}_h{height_grid}xL{length_grid}xW{width_grid}.
 
 The figure above shows how the file names are related to the models.
 
@@ -71,7 +73,8 @@ Containers | Labels | Trays
 30mm <br/> 40mm <br/> 50mm <br/> 30mm_toplabel <br/> 40mm_toplabel <br/> 50mm_toplabel | Side_label <br/> Top_label | 30mm <br/> 40mm <br/> 50mm
 ![container model](./_fig/container_model.PNG)| ![container model](./_fig/label_model.PNG) | ![container model](./_fig/tray_model.PNG)
 
-### Screw Types to Choose From
+### Label Types to Choose From
+Common dimensions that can be found on [McMaster-Carr](https://www.mcmaster.com) are provided.
 
 Nut | Hex | Socket hex| Heat insert
 :----:|:---:|:-----------:|:------:
